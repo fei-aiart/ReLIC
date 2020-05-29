@@ -1,7 +1,15 @@
 # ReLIC
 > Pytorch code for our work "Representation Learning of Image Composition for Aesthetic Evaluation".
 
- <img src="ReLIC.jpg" width = "500" alt="framework" align=center />
+## Citation
+
+```
+Lin Zhao, Meimei Shang, Fei Gao*, et al. Representation Learning of Image Composition for Aesthetic Prediction. Computer Vision and Image Understanding (CVIU), 2020. (under review)
+```
+
+## Framework
+
+<img src="ReLIC.jpg" width = "500" alt="framework" align=center />
 
 
 
