@@ -3,7 +3,7 @@
 
 ## Citation
 
-```
+```tex
 Lin Zhao, Meimei Shang, Fei Gao*, et al. Representation Learning of Image Composition for Aesthetic Prediction. Computer Vision and Image Understanding (CVIU), 2020. (under review)
 ```
 
@@ -39,9 +39,9 @@ Lin Zhao, Meimei Shang, Fei Gao*, et al. Representation Learning of Image Compos
 ## Data (folder)
 
 - ``data`` contains the dataset split of three datasets: AVA, JAS, CPC; 
-  - [AVA: A Large-Scale Database for Aesthetic Visual Analysis][http://refbase.cvc.uab.es/files/MMP2012a.pdf]
-  - CPC: [The Comparative Photo Composition (CPC) database][]
-  - JAS: [JENAESTHETICS DATASET- A PUBLIC COLLECTION OF PAINTINGS FOR AESTHETICS RESEARCH][http://www.inf-cv.uni-jena.de/jenaesthetics.html]
+  - [AVA: A Large-Scale Database for Aesthetic Visual Analysis]（http://refbase.cvc.uab.es/files/MMP2012a.pdf）
+  - CPC: [The Comparative Photo Composition (CPC) database]（https://www3.cs.stonybrook.edu/~cvl/projects/wei2018goods/VPN_CVPR2018s.html）
+  - JAS: [JENAESTHETICS DATASET- A PUBLIC COLLECTION OF PAINTINGS FOR AESTHETICS RESEARCH]（http://www.inf-cv.uni-jena.de/jenaesthetics.html）
 - each of them have three files: ``train.csv``, ``test.csv`` and ``val.csv`` 
 
 ## Results
