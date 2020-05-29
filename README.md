@@ -1,9 +1,9 @@
 # ReLIC
 > Pytorch code for our work "Representation Learning of Image Composition for Aesthetic Evaluation".
 
+ <img src="ReLIC.jpg" width = "500" alt="framework" align=center />
 
 
-![ReLIC.jpg](ReLIC.jpg)
 
 ## Requirements
 
@@ -39,3 +39,13 @@
 ## Results
 
 ![results.png](results.png)
+
+## References (selected)
+
+- Amirshahi, S.A., Hayn-Leichsenring, G.U., Denzler, J., Redies, C., 2014a. Jenaaesthetics dataset URL: http://www.inf-cv.uni-jena.de/en/jenaesthetics.
+- Amirshahi, S.A., Hayn-Leichsenring, G.U., Denzler, J., Redies, C., 2014b. Jenaesthetics subjective dataset: analyzing paintings by subjective scores, in: European Conference on Computer Vision, Springer. pp. 3–19.
+- Deng, Y., Chen, C.L., Tang, X., 2017. Image aesthetic assessment: An experimental survey. IEEE Signal Processing Magazine 34, 80–106.
+- Murray, N., Marchesotti, L., Perronnin, F., 2012. Ava: A large-scale database for aesthetic visual analysis, in: IEEE International Conference on Computer Vision and Pattern Recognition, pp. 2408–2415.
+- Wei, Z., Zhang, J., Shen, X., Lin, Z., Mech, R., Hoai, M., Samaras, D., 2018. Good view hunting: Learning photo composition from dense view pairs, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5437–5446.
+- Ma, S., Liu, J., Wen Chen, C., 2017. A-lamp: Adaptive layout-aware multipatch deep convolutional neural network for photo aesthetic assessment , 4535–4544.
+- Talebi, H., Milanfar, P., 2018. Nima: Neural image assessment. IEEE Transactions on Image Processing 27, 3998–4011. doi:10.1109/TIP.2018.2831899.
