@@ -3,9 +3,7 @@
 
 ## Citation
 
-```tex
-Lin Zhao, Meimei Shang, Fei Gao*, et al. Representation Learning of Image Composition for Aesthetic Prediction. Computer Vision and Image Understanding (CVIU), 2020. (under review)
-```
+> Lin Zhao, Meimei Shang, Fei Gao*, et al. Representation Learning of Image Composition for Aesthetic Prediction. Computer Vision and Image Understanding (CVIU), 2020. (under review)
 
 ## Framework
 
