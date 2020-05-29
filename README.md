@@ -48,4 +48,4 @@
 - Murray, N., Marchesotti, L., Perronnin, F., 2012. Ava: A large-scale database for aesthetic visual analysis, in: IEEE International Conference on Computer Vision and Pattern Recognition, pp. 2408–2415.
 - Wei, Z., Zhang, J., Shen, X., Lin, Z., Mech, R., Hoai, M., Samaras, D., 2018. Good view hunting: Learning photo composition from dense view pairs, in: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5437–5446.
 - Ma, S., Liu, J., Wen Chen, C., 2017. A-lamp: Adaptive layout-aware multipatch deep convolutional neural network for photo aesthetic assessment , 4535–4544.
-- Talebi, H., Milanfar, P., 2018. Nima: Neural image assessment. IEEE Transactions on Image Processing 27, 3998–4011. doi:10.1109/TIP.2018.2831899.
+- Talebi, H., Milanfar, P., 2018. Nima: Neural image assessment. IEEE Transactions on Image Processing 27, 3998–4011. doi:10.1109/TIP.2018.2831899.
