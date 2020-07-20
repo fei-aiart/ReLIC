@@ -5,6 +5,21 @@
 
 > Lin Zhao, Meimei Shang, Fei Gao*, et al. Representation Learning of Image Composition for Aesthetic Prediction. Computer Vision and Image Understanding (CVIU), vol. 199, 103024, Oct. 2020. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)]
 
+```latex
+@article{Zhao2020ReLIC,
+title = "Representation learning of image composition for aesthetic prediction",
+author = "Lin Zhao and Meimei Shang and Fei Gao and Rongsheng Li and Fei Huang and Jun Yu",
+journal = "Computer Vision and Image Understanding",
+volume = "199",
+pages = "103024",
+year = "2020",
+issn = "1077-3142",
+doi = "https://doi.org/10.1016/j.cviu.2020.103024",
+}
+```
+
+
+
 ## Framework
 
 <img src="ReLIC.jpg" width = "500" alt="framework" align=center />
